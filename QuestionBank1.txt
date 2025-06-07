@@ -1,0 +1,29 @@
+Which of the following best describes the principal goal of data science?/To collect and archive exhaustive data sets from various source systems for corporate record keeping uses.,To mine and analyze large amounts of data in order to uncover information that can be used for operational improvements and business gains.,To collect and prepare data for use as part of analytics applications.
+
+What is the first step in the data science process?/Collecting data and preparing it for analysis,Experimenting with and tuning different analytical models,Defining an analytical hypothesis that could provide business value.
+
+What is the primary difference between a data scientist and a data engineer?/A data engineer collects and prepares data, and a data scientist then analyzes it.,A data engineer analyzes data after a data scientist collects and prepares it.,A data engineer builds data pipelines and helps prepare data, while a data scientist is responsible for data collection, preparation and analysis.
+
+Which of the following programming languages are most widely used by data scientists?/C and C++,Python, R and SQL,Java and JavaScript
+
+Which of the following analytical and statistical techniques do data scientists commonly use?/Classification,Regression,Clustering,All of the above
+
+In machine learning, what is the primary difference between supervised and unsupervised learning?/Supervised learning involves data that has been labeled and classified, while unsupervised learning data is unlabeled and unclassified.,Supervised learning is monitored closely by data scientists, while they don't play a role in unsupervised learning.,Supervised learning is only used for image recognition, while unsupervised learning can be used for various analytics applications.
+
+Why is data sampling useful for data scientists?/It lets them analyze data sets in small batches to reduce their use of system resources.,It reduces the amount of data storage space that's required for data science applications.,It enables them to use a representative subset of data to build accurate analytical models more quickly.
+
+What is a common maxim about data scientists?/They spend 80% of their time finding and preparing data and 20% analyzing it.,They spend 80% of their time analyzing data and 20% finding and preparing it.,They spend 80% of their time on failed analytics projects and 20% doing useful work.
+
+IDE stands for...../Integrated Desktop Environment,Integrated Development Environment,Integrated Dual Environment,Internet Development Environment.
+
+Which of the following is not an IDE ?/Oracle java studio creator,Eclipse,Intellij IDEA,MS word.
+
+Data scientists typically need a combination of technical skills, nontechnical ones and suitable personality traits to be successful./True,False
+
+Bias is a common problem in data science applications./True,False
+
+Raw data should be processed only one time./True,False
+
+Eggy Data is another name for raw data ?/True,False
+
+Focus Group interview is a tool for qualitative market research where a group of people are selected and asked about their opinion or perceptions about a particular topic./True,False
